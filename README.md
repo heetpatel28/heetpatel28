@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Heet%20Patel&fontSize=50&fontColor=FFFFFF&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descFontSize=25" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Heet%20Patel&fontSize=50&fontColor=FFFFFF&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descFontSize=25&descAlignY=75" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heetpatel28&show_icons=true&theme=tokyonight&hide_border=true" alt="Heet's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heetpatel28&show_icons=true&theme=tokyonight&hide_border=true" alt="Heet's Stats" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
