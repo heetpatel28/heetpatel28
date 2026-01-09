@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Heet%20Patel&fontSize=50&fontColor=FFFFFF&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descFontSize=25&descAlignY=75" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Heet%20Patel&fontSize=50&fontColor=FFFFFF&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descFontSize=25" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -23,6 +23,15 @@
 - 🤝 I’m looking for help with **Advanced AWS Security & Terraform modules.**
 - 🌱 I’m currently learning **Computer System Validation (CSV).**
 - ⚡ Fun fact: **I treat infrastructure issues like a puzzle—there is always a fix!**
+
+---
+
+### 🏆 Featured Work
+
+**Check out my complete DevOps journey here:**
+
+### 🚀 [DevOps Learning Lab](https://github.com/heetpatel28/DevOps)
+> A curated collection of my work in DevOps, containing practical notes, automation scripts, and configurations for AWS, Docker, Kubernetes, and more.
 
 ---
 
@@ -55,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
