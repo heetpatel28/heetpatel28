@@ -1,13 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi!+I'm+Heet+Patel;DevOps+Engineer;Cloud+Enthusiast;Automation+Lover" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm94b2M4bThpODF4N2VqeGF6ZmxuY3J6bnVxc3R4b3J5YnZ3MGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TV7J2Zbu0/giphy.gif" width="500" alt="DevOps Gif" />
-</p>
-
-<p align="center">
-   <b>Passionate DevOps Engineer creating scalable cloud architecture.</b>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Heet%20Patel&fontSize=50&fontColor=FFFFFF&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descFontSize=25" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -35,7 +27,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -53,20 +44,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heetpatel28&show_icons=true&theme=tokyonight&hide_border=true" alt="Heet's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heetpatel28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Heet's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetpatel28&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetpatel28&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heetpatel28&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heetpatel28&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=heetpatel28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+  
+  <a href="https://github.com/heetpatel28" target="_blank">
+    <img src="https://img.shields.io/github/followers/heetpatel28?label=Follow&style=social" alt="Follow Me" />
+  </a>
+</p>
